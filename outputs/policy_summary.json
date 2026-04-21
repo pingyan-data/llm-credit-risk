@@ -1,0 +1,16 @@
+{
+  "model_A": {
+    "approval_rate": 0.023,
+    "review_rate": 0.02,
+    "decline_rate": 0.957,
+    "approved_default_rate": 0.0431,
+    "declined_precision": 0.5176
+  },
+  "model_C": {
+    "approval_rate": 0.011,
+    "review_rate": 0.035,
+    "decline_rate": 0.954,
+    "approved_default_rate": 0.0,
+    "declined_precision": 0.5188
+  }
+}

@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Data — too large for git, download from Kaggle
+data/raw/
+data/processed/
+
+# Model outputs — regenerate by running pipeline
+outputs/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# API keys
+.env
+*.env
